@@ -41,7 +41,7 @@ FONTMAKE_ARGS = [
     # "--filter=FlattenComponentsFilter",
     # "--ttf-curves=mixed",
 ]
-FONTMAKE_VERSION = "3.7.0"
+FONTMAKE_VERSION = "3.7.1"
 GLYHPS_PYTHON_EXE = Path.home() / (
     "Library/Application Support/Glyphs 3/Repositories/"
     "GlyphsPythonPlugin/Python.framework/Versions/Current/bin/python3"
